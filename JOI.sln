@@ -1,0 +1,56 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp", "Assembly-CSharp.csproj", "{01846d21-e9bd-a516-fdca-17a9a9ee21c4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Unity.2D.Animation.Samples.Runtime", "Unity.2D.Animation.Samples.Runtime.csproj", "{3cd01b5a-b0f2-3c28-f977-25cdd04c3632}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Unity.2D.PixelPerfect.Samples", "Unity.2D.PixelPerfect.Samples.csproj", "{1aa0c45f-d41e-156a-484b-7dff82c85077}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Unity.2D.Animation.Samples.Dependency", "Unity.2D.Animation.Samples.Dependency.csproj", "{8335606c-2275-4bc9-ff20-9c23341c4f1d}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp-Editor", "Assembly-CSharp-Editor.csproj", "{b3333350-750e-0055-8be3-bb9835cd4962}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Unity.2D.Animation.Samples.Editor", "Unity.2D.Animation.Samples.Editor.csproj", "{8a1edad3-1f61-0225-8f8e-f041cb678821}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Unity.2D.PixelPerfect.Samples.Editor", "Unity.2D.PixelPerfect.Samples.Editor.csproj", "{e7f1d46c-ab26-7d24-318f-035d5b1c177a}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{01846d21-e9bd-a516-fdca-17a9a9ee21c4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{01846d21-e9bd-a516-fdca-17a9a9ee21c4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{01846d21-e9bd-a516-fdca-17a9a9ee21c4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{01846d21-e9bd-a516-fdca-17a9a9ee21c4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3cd01b5a-b0f2-3c28-f977-25cdd04c3632}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3cd01b5a-b0f2-3c28-f977-25cdd04c3632}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3cd01b5a-b0f2-3c28-f977-25cdd04c3632}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3cd01b5a-b0f2-3c28-f977-25cdd04c3632}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1aa0c45f-d41e-156a-484b-7dff82c85077}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1aa0c45f-d41e-156a-484b-7dff82c85077}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1aa0c45f-d41e-156a-484b-7dff82c85077}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1aa0c45f-d41e-156a-484b-7dff82c85077}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8335606c-2275-4bc9-ff20-9c23341c4f1d}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8335606c-2275-4bc9-ff20-9c23341c4f1d}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8335606c-2275-4bc9-ff20-9c23341c4f1d}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8335606c-2275-4bc9-ff20-9c23341c4f1d}.Release|Any CPU.Build.0 = Release|Any CPU
+		{b3333350-750e-0055-8be3-bb9835cd4962}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{b3333350-750e-0055-8be3-bb9835cd4962}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{b3333350-750e-0055-8be3-bb9835cd4962}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{b3333350-750e-0055-8be3-bb9835cd4962}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8a1edad3-1f61-0225-8f8e-f041cb678821}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8a1edad3-1f61-0225-8f8e-f041cb678821}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8a1edad3-1f61-0225-8f8e-f041cb678821}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8a1edad3-1f61-0225-8f8e-f041cb678821}.Release|Any CPU.Build.0 = Release|Any CPU
+		{e7f1d46c-ab26-7d24-318f-035d5b1c177a}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{e7f1d46c-ab26-7d24-318f-035d5b1c177a}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{e7f1d46c-ab26-7d24-318f-035d5b1c177a}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{e7f1d46c-ab26-7d24-318f-035d5b1c177a}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
